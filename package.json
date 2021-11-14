@@ -10,6 +10,11 @@
     "seed": "cd server && npm run seed",
     "build": "cd client && npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgmedrano/Redux_Store"
+  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
